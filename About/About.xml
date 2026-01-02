@@ -11,6 +11,7 @@
         <li>
             <packageId>Rick.FCP.Core.Tools</packageId>
             <displayName>FCP Core/Tools</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3426176322</steamWorkshopUrl>
         </li>
     </modDependencies>
 </ModMetaData>
